@@ -1,5 +1,5 @@
 {
-	"name" : "jp.mirageworld/cakephp-sendgrid",
+	"name" : "asahinadev/cakephp-sendgrid",
 	"description" : "SendGrid plugin for CakePHP",
 	"type" : "cakephp-plugin",
 	"license" : "MIT",
